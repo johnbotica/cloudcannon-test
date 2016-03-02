@@ -1,7 +1,7 @@
 ---
 title: SEO
-image_path: /img/pen.png
+image_path: /img/butterfly.png
 ---
 
 
-Lorem ipsum dolor...
+Lorem ipsum dolor…
