@@ -1,7 +1,7 @@
 ---
 title: Content Writing
-image_path: /img/pen.png
+image_path: /img/keyboard.png
 ---
 
 
-Lorem ipsum dolor...
+Lorem ipsum dolor…
