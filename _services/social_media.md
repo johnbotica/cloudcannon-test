@@ -1,7 +1,7 @@
 ---
 title: Social Media
-image_path: /img/pen.png
+image_path: /img/mug.png
 ---
 
 
-Lorem ipsum dolor...
+Lorem ipsum dolor…
